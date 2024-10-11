@@ -1,2 +1,2 @@
-# Monochrome_Palette_Generator
+# Monochrome Palette Generator
 Monochrome palette generator
