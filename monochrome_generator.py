@@ -7,8 +7,6 @@ import matplotlib.pyplot as plt
 from typing import List, Tuple
 
 # %%
-
-
 class LightnessLevel(Enum):
     MIN = 15
     MAX_DEFAULT = 95
